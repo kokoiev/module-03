@@ -27,6 +27,7 @@ nav {
   font-size: 14px;
   text-transform: uppercase;
   text-align: center;
+  margin-top: 58px;
 }
 
 ul {
@@ -38,13 +39,13 @@ a {
   display: inline-block;
   width: 165px;
   text-decoration: none;
-  color: darkgrey;
+  color: #626262;
   height: 50px;
   line-height: 50px;
 }
 
 a:hover {
-  color: lightskyblue;
+  color: rgb(85, 171, 228);
 }
 
 div {
@@ -74,7 +75,7 @@ button {
   width: 100%;
   text-align: center;
   margin: 50px 0;
-  padding-left: 60px;
+  background-color: #ffffff;
 }
 
 .container {
@@ -85,7 +86,7 @@ button {
 }
 
 .infoblock {
-  margin-left: 60px;
+  margin: 0px 30px;
 }
 
 h3,
