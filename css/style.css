@@ -2,17 +2,21 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
+  line-height: 24px;
 }
+
 p {
   font-family: "Playfair Display", serif;
   font-size: 14px;
 }
+
 h3 {
   font-family: "Ubuntu", sans-serif;
   text-transform: uppercase;
   color: darkgray;
   font-size: 14px;
 }
+
 h2 {
   font-family: "Playfair Display", serif;
   font-size: 30px;
@@ -42,11 +46,11 @@ a {
 a:hover {
   color: lightskyblue;
 }
+
 div {
   display: inline-block;
-  width: 430px;
-  margin: 6%;
 }
+
 p,
 h3,
 h2 {
@@ -54,18 +58,36 @@ h2 {
   width: 430px;
   margin-top: 20px;
 }
+
 img {
   display: inline-block;
 }
+
 button {
   width: 165px;
   height: 60px;
   font-family: "Playfair Display", serif;
   font-size: 20px;
 }
+
 .button {
   width: 100%;
   text-align: center;
+  margin: 50px 0;
+  padding-left: 60px;
+}
+
+.container {
   margin: 0px;
-  margin-bottom: 50px;
+  width: 100%;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.infoblock {
+  margin-left: 60px;
+}
+
+h3 {
+  text-align: left;
 }
