@@ -55,7 +55,7 @@ p,
 h3,
 h2 {
   display: block;
-  width: 430px;
+  width: 420px;
   margin-top: 20px;
 }
 
@@ -88,6 +88,9 @@ button {
   margin-left: 60px;
 }
 
-h3 {
+h3,
+p,
+h2,
+img {
   text-align: left;
 }
