@@ -4,22 +4,22 @@
   margin: 0;
 }
 p {
-  font-family: Playfair Display Regular;
+  font-family: "Playfair Display", serif;
   font-size: 14px;
 }
 h3 {
-  font-family: Ubuntu Light;
+  font-family: "Ubuntu", sans-serif;
   text-transform: uppercase;
   color: darkgray;
   font-size: 14px;
 }
 h2 {
-  font-family: Playfair Display Regular;
+  font-family: "Playfair Display", serif;
   font-size: 30px;
 }
 
 nav {
-  font-family: Playfair Display Regular;
+  font-family: "Playfair Display", serif;
   font-size: 14px;
   text-transform: uppercase;
   text-align: center;
@@ -60,7 +60,7 @@ img {
 button {
   width: 165px;
   height: 60px;
-  font-family: Playfair Display Regular;
+  font-family: "Playfair Display", serif;
   font-size: 20px;
 }
 .button {
