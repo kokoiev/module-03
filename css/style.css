@@ -69,13 +69,16 @@ button {
   height: 60px;
   font-family: "Playfair Display", serif;
   font-size: 20px;
+  background-color: #ffffff;
+  border: 1px;
+  border-style: solid;
+  box-sizing: border-box;
 }
 
 .button {
   width: 100%;
   text-align: center;
   margin: 50px 0;
-  background-color: #ffffff;
 }
 
 .container {
