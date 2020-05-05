@@ -28,7 +28,8 @@
   font-size: 14px;
   text-transform: uppercase;
   text-align: center;
-  margin-top: 58px;
+  margin-top: 60px;
+  margin-bottom: 0px;
   list-style: none;
 }
 .nav_list_item,
@@ -53,14 +54,13 @@
 .headline {
   display: block;
   margin-top: 20px;
-  text-align: left;
 }
 img {
   display: inline-block;
 }
 .load_more {
   width: 165px;
-  height: 60px;
+  height: 55px;
   font-size: 20px;
   background-color: #ffffff;
   border: 1px;
@@ -73,22 +73,20 @@ img {
   margin: 50px 0;
 }
 .container {
-  width: 960px;
+  width: 900px;
   margin: 0 auto;
 }
 .infoblock {
   display: inline-block;
-  text-align: center;
   width: 420px;
   margin-top: 85px;
 }
 .infoblock:nth-child(odd) {
-  margin-right: 60px;
+  margin-right: 55px;
 }
 .container {
   margin: 0px auto;
 }
-.parent {
+.main {
   width: 100%;
-  text-align: center;
 }
